@@ -26,6 +26,9 @@
 #### zep.us
 - Gratuit jusqu'à 20 utilisateurs
 - Zelda-like
+- Permet d'avoir des espaces de réunion
+- Assez fluide pour la vidio et partage d'écran
+- Pas besoin de créer de compte
 
 #### kumospace
 - Zelda-like
@@ -34,6 +37,9 @@
 #### topia
 - Zelda-like
 - Gratuit jusqu'à 50 utilisateurs
+- Peu réactif
+- Nécéssite de se créer un compte
+- Micro et caméra ne fonctionnent pas sus Firefox
 
 ## Communication en amont
 
