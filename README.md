@@ -21,25 +21,25 @@
 #### zoom
 
 #### meet
-- Liberté de changer de group/room: possible mais fastidieux
+- Liberté de changer de group/room: possible mais fastidieux :-1:
 
 #### zep.us
-- Gratuit jusqu'à 20 utilisateurs
-- Zelda-like
-- Permet d'avoir des espaces de réunion
-- Assez fluide pour la visio et partage d'écran
-- Pas besoin de créer de compte :thumbs-up:
+- Gratuit jusqu'à 20 utilisateurs :+1: 
+- Zelda-like :crossed_swords: 
+- Permet d'avoir des espaces de réunion :+1: 
+- Assez fluide pour la visio et partage d'écran :+1: 
+- Pas besoin de créer de compte :+1: 
 
 #### kumospace
-- Zelda-like
-- Gratuit jusqu'à 5 utilisateurs
+- Zelda-like :crossed_swords: 
+- Gratuit jusqu'à 5 utilisateurs :-1: 
 
 #### topia
-- Zelda-like
-- Gratuit jusqu'à 50 utilisateurs
-- Peu réactif
-- Nécéssite de se créer un compte
-- Micro et caméra ne fonctionnent pas sous Firefox :thumbs-down:
+- Zelda-like :crossed_swords: 
+- Gratuit jusqu'à 50 utilisateurs :tada: 
+- Peu réactif :-1:
+- Nécéssite de se créer un compte :-1:
+- Micro et caméra ne fonctionnent pas sous Firefox :-1: 
 
 ## Communication en amont
 
