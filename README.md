@@ -27,8 +27,8 @@
 - Gratuit jusqu'à 20 utilisateurs
 - Zelda-like
 - Permet d'avoir des espaces de réunion
-- Assez fluide pour la vidio et partage d'écran
-- Pas besoin de créer de compte
+- Assez fluide pour la visio et partage d'écran
+- Pas besoin de créer de compte :thumbs-up:
 
 #### kumospace
 - Zelda-like
@@ -39,7 +39,7 @@
 - Gratuit jusqu'à 50 utilisateurs
 - Peu réactif
 - Nécéssite de se créer un compte
-- Micro et caméra ne fonctionnent pas sus Firefox
+- Micro et caméra ne fonctionnent pas sous Firefox :thumbs-down:
 
 ## Communication en amont
 
